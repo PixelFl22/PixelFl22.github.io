@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -19,7 +18,7 @@
     <main class="bg-white rounded-xl shadow-lg max-w-3xl w-full p-8 md:p-12 my-8">
         <!-- Encabezado -->
         <header class="text-center mb-10">
-            <h1 class="text-4xl font-bold text-gray-800">Anuncio: Implementación de QPhotos</h1>
+            <h1 class="text-4xl font-bold text-gray-800">Implementación de QPhotos</h1>
             <p class="text-gray-500 mt-2 text-lg">Inicio de la fase de prueba oficial de la nueva app de organización.</p>
         </header>
 
@@ -116,14 +115,14 @@
             <!-- Sección: Feedback -->
             <div class="bg-green-50 border border-green-200 text-green-900 rounded-lg p-5 text-center">
                 <p class="font-semibold">Para cualquier duda o sugerencia durante esta prueba, por favor contactarme a:</p>
-                <p class="text-lg mt-1">[indicar el canal: este mismo correo, un grupo específico, etc.]</p>
+                <p class="text-lg mt-1">almacen@qenergyperu.com</p>
             </div>
 
             <!-- Cierre -->
             <div class="pt-6 border-t mt-10">
                 <p>Agradezco de antemano su colaboración.</p>
                 <p class="mt-4">Saludos cordiales,</p>
-                <p class="font-semibold mt-2">Fabrizio Jáuregui Velásquez</p>
+                <p class="font-semibold mt-2">Rolan Fabrizio Jáuregui Velásquez</p>
                 <p class="text-sm text-gray-500">Asistente de Almacén</p>
             </div>
         </div>
