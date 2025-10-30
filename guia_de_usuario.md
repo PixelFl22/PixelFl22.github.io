@@ -56,6 +56,17 @@ Una vez establecido el proyecto, puedes añadir fotos de dos maneras:
 
 Las fotos se añadirán automáticamente a una cola de subida y se enviarán al servidor en segundo plano.
 
+### 2.3. Modo Oscuro / Modo Día
+
+La aplicación respeta el tema de tu teléfono. Si tienes tu dispositivo Android en **modo oscuro**, QPhotos se mostrará automáticamente con tema oscuro para tu comodidad visual. Si prefieres el **modo día**, la app también se adaptará.
+
+<p align="center">
+  <img src="https://pixelfl22.github.io/images/paso_2.3.jpg" width="350">
+  <img src="https://pixelfl22.github.io/images/paso_2.3.1.jpg" width="350">
+  <img src="https://pixelfl22.github.io/images/paso_2.3.2.jpg" width="350">
+  <img src="https://pixelfl22.github.io/images/paso_2.3.3.jpg" width="350">
+</p>
+
 ## 3. Gestión de Fotos y Proyectos
 
 ### 3.1. Ver la Cola de Subida
